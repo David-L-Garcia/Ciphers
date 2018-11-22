@@ -1,1 +1,1 @@
-This is the very first version of the caesar cypher. it works, but still need to work on error analysis.
+This is the very first version of the caesar cypher. It works, but still need to work on error handling.
